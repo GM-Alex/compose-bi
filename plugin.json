@@ -1,0 +1,5 @@
+{
+  "name": "Build Improved",
+  "description": "Improves the docker file so that environment variables can be used.",
+  "version": "0.0.1"
+}
